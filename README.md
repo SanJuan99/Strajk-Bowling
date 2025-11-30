@@ -33,22 +33,20 @@ Implementerad i React + TypeScript med Vite som bundler.
 
 1. Installera beroenden:
 
-npm install
-Starta dev-server:
+- npm install
 
-npm run dev
-Öppna http://localhost:5173 i webbläsaren (Vite visar exakt URL i terminalen).
+2. Starta dev-server:
 
-Bygg för produktion:
+- npm run dev
+  Öppna http://localhost:5173 i webbläsaren (Vite visar exakt URL i terminalen).
 
-npm run build
-
-Projektstruktur (kort)
+## Projektstruktur (kort)
 
 src/
-components/BookingView.tsx # Formulär + API-anrop + validering
-components/ConfirmationView.tsx # Visar bokningsbekräftelse
-types/booking.ts # TypeScript-typer för request/response
-App.tsx
-main.tsx
-index.css
+
+- components/BookingView.tsx # Formulär + API-anrop + validering
+- components/ConfirmationView.tsx # Visar bokningsbekräftelse
+- types/booking.ts # TypeScript-typer för request/response
+- App.tsx
+- main.tsx
+- index.css
