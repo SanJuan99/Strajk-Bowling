@@ -38,7 +38,7 @@ Implementerad i React + TypeScript med Vite som bundler.
 2. Starta dev-server:
 
 - npm run dev
-  Öppna http://localhost:5173 i webbläsaren (Vite visar exakt URL i terminalen).
+- Öppna http://localhost:5173 i webbläsaren (Vite visar exakt URL i terminalen).
 
 ## Projektstruktur (kort)
 
